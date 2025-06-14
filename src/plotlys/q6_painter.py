@@ -151,11 +151,11 @@ class Q6_Painter:
                     index=['VFF', 'PVS', '0-Serie'])
         
                     if self.upload_filepath_painter.type == 'A6L e-tron (AU511_4CE_BL)':
-                        self.detail_df_creator.file_path_start = r"C:\Users\eqhw2il\OneDrive - 奥迪一汽新能源汽车有限公司\Shared Documents - NEV Co. QPNi\03_A6L e-tron (AU511_4CE_BL)"
-                        # self.detail_df_creator.file_path_start = r"C:\Users\GCA0H6X\OneDrive - 奥迪一汽新能源汽车有限公司\03_A6L e-tron (AU511_4CE_BL)"
+                        self.detail_df_creator.file_path_start = r"C:\****\Shared Documents - NEV Co. QPNi\03_A6L e-tron (AU511_4CE_BL)"
+                        # self.detail_df_creator.file_path_start = r"C:\****\03_A6L e-tron (AU511_4CE_BL)"
                     elif self.upload_filepath_painter.type == 'Q6L e-tron (AU416_2CE_BL)':
-                        self.detail_df_creator.file_path_start = r"C:\Users\eqhw2il\OneDrive - 奥迪一汽新能源汽车有限公司\Shared Documents - NEV Co. QPNi\02_Q6L e-tron (AU416_2CE_BL)"
-                        # self.detail_df_creator.file_path_start = r"C:\Users\GCA0H6X\OneDrive - 奥迪一汽新能源汽车有限公司\02_Q6L e-tron (AU416_2CE_BL)"
+                        self.detail_df_creator.file_path_start = r"C:\****\Shared Documents - NEV Co. QPNi\02_Q6L e-tron (AU416_2CE_BL)"
+                        # self.detail_df_creator.file_path_start = r"C:\****\02_Q6L e-tron (AU416_2CE_BL)"
                     self.excel_reader.path_start = self.detail_df_creator.file_path_start
                     self.detail_df_creator.excel_reader = self.excel_reader
                     self.detail_df_creator.ms_reader = self.ms_reader
