@@ -1,0 +1,14 @@
+{
+    "VFF": {
+        "Delivery Assembly/directed parts": "22/20",
+        "ZP8 VFF Ramp up 1": "30/24"
+    },
+    "PVS": {
+        "Delivery Assembly/directed parts": "36/24",
+        "ZP8 PVS Ramp up 1": "42/24"
+    },
+    "0-Serie": {
+        "Delivery Assembly/directed parts": "14/25",
+        "ZP8 0-Serie Ramp up 1": "20/25"
+    }
+}

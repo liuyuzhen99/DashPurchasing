@@ -1,0 +1,13 @@
+{
+    "Paths":[
+        "C:\\Users\\eqhw2il\\OneDrive - 奥迪一汽新能源汽车有限公司\\桌面\\项目相关\\Aydin purchasing requirement\\test.xlsx",
+        "C:\\Users\\eqhw2il\\OneDrive - 奥迪一汽新能源汽车有限公司\\桌面\\项目相关\\Aydin purchasing requirement\\test2.xlsx"
+    ],
+    "Sheets": "test1",
+    "Columns": [
+        "Name",
+        "Age",
+        "Color"
+    ],
+    "Color_Column": "Color"
+}
