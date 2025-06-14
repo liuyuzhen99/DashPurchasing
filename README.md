@@ -28,7 +28,5 @@ upload three files to the app:
 
 ## pages
 ![homepage](https://github.com/user-attachments/assets/a21265f5-dd5b-4a80-a4d8-26d31245679b)
-
-
-
+<img width="1376" alt="Snipaste_2025-06-14_18-35-36" src="https://github.com/user-attachments/assets/d92f74b0-d452-4c3e-bd3e-910d32e4366d" />
 <img width="1795" alt="image" src="https://github.com/user-attachments/assets/809e4680-4db7-4e62-8111-de2e803a2a17" />
